@@ -2,7 +2,7 @@
 
 **AI-Powered Job Search Platform**
 
-Job8earch is a modern job search platform that combines job listings with AI-powered features to help job seekers find their perfect role. Built with React and powered by OpenRouter AI models.
+Job8earch is a modern job search platform that combines job listings with AI-powered features to help job seekers find their perfect role. Built with React and powered by various AI models.
 
 ## ✨ Features
 
@@ -16,8 +16,8 @@ Job8earch is a modern job search platform that combines job listings with AI-pow
 ## 🚀 Tech Stack
 
 - **Frontend**: React 18, Vite, Tailwind CSS
-- **AI Integration**: OpenRouter API with multiple free models
-- **Job Data**: Reed API for UK job listings
+- **AI Integration**: Multiple free models
+- **Job Data**: Reed API for job listings
 - **Styling**: Tailwind CSS with custom components
 - **Build Tool**: Vite for fast development and building
 
@@ -44,7 +44,7 @@ Job8earch is a modern job search platform that combines job listings with AI-pow
 
 4. **Configure OpenRouter Privacy Settings**
    - Visit [OpenRouter Privacy Settings](https://openrouter.ai/settings/privacy)
-   - Enable prompt training to access free models
+   - You may be required to enable prompt training to access free models
 
 5. **Start development server**
    ```bash
@@ -55,12 +55,12 @@ Job8earch is a modern job search platform that combines job listings with AI-pow
 
 ### Reed API
 - Get your API key from [Reed API](https://www.reed.co.uk/developers)
-- Used for fetching UK job listings
+- Used for fetching  job listings
 
 ### OpenRouter API
 - Sign up at [OpenRouter](https://openrouter.ai/)
 - Get your API key from the dashboard
-- Configure privacy settings to enable free models
+- You may be required to configure privacy settings to enable free models
 
 ## 🤖 Available AI Models
 
@@ -108,13 +108,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Jeff Kamau**
+**Geofrey Kamau**
 - Email: jeffkamau9497@gmail.com
 - GitHub: [@jeff9497](https://github.com/jeff9497)
 
-## 🙏 Acknowledgments
-
-- [Reed API](https://www.reed.co.uk/developers) for job data
-- [OpenRouter](https://openrouter.ai/) for AI model access
-- [Tailwind CSS](https://tailwindcss.com/) for styling
-- [Vite](https://vitejs.dev/) for build tooling
